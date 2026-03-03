@@ -28,4 +28,4 @@ I am currently developing a modular web application focused on secure user manag
 - **Swiss Precision:** Trained at **IFAGE Geneva** in Business IT Development and Micro-Computer Management.
 
 📫 **Reach me at:** [steph.andre.global@gmail.com](mailto:steph.andre.global@gmail.com)
-🔗 **LinkedIn:** [https://linkedin.com/in/thestephaneandre]
+🔗 **LinkedIn:** [https://ch.linkedin.com/in/thestephaneandre]
